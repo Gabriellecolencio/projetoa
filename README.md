@@ -1,0 +1,2 @@
+# projetoa
+comandos com git 
